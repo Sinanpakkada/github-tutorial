@@ -2,5 +2,7 @@
 void main(){
 
     printf("Hello\n");
-        printf("master\n");
+
+        printf("second\n");
+
 }
