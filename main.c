@@ -1,6 +1,7 @@
 #include <stdio.h>
 void main(){
-
-    printf("Hello\n");
-        printf("Hello\n");
+    int i=0;
+    if(i==0)
+        {printf("Hello\n");
+        printf("Hello mohammed sinan\n");}
 }
